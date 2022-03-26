@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97947374907",
+    "project_id": "fir-crud-farm-npdesignapp",
+    "storage_bucket": "fir-crud-farm-npdesignapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97947374907:android:6a0aa6cbd3f24323a3d31e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_crud_npdesignapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97947374907-5q6b808dlccaoebkmlcfkvt3ftvtuhrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqc95UJUeWI8hjMVBwWb6_qmtU7B1enjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97947374907-5q6b808dlccaoebkmlcfkvt3ftvtuhrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
